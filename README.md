@@ -37,19 +37,7 @@ bash run.sh
 
 🧭 Usage Menu
 
-When you start the script, you’ll see:
-
-===============================
-     🎬 YouTube Downloader
-===============================
-1️⃣  Install required tools
-2️⃣  Download a YouTube video
-3️⃣  Update yt-dlp
-4️⃣  Exit
-===============================
-👉 Choose an option [1-4]:
-
-
+When you start the script, you’ll see menu
 Example:
 
 Choose: 2
